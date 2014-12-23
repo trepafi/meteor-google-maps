@@ -1,0 +1,7 @@
+[
+    {
+        "file": "googleMapsLt.js",
+        "url": "https://maps.googleapis.com/maps/api/js?libraries=places",
+        "bare": true
+    }
+]
